@@ -29,3 +29,5 @@ Basic mathematical calculations Educational tool for learning python programming
 
 # CONCLUSION
 The simple caculator project successfully demonstrate the implementation of basic arithmetic operations using python the application allows users to perform addition,subtraction,multiplication,division through a simple command-line interface it is also includes input validation and error handling to ensure reliable execution This project helps in understanding fundamental programming concepts such as variables,functions,conditional statements,user input handling,and exception handling overall the simple caiculator serves as an excellent beginner level project and provides a strong foundation for developing more advanced python applications in the future
+<img width="1280" height="511" alt="image" src="https://github.com/user-attachments/assets/1183e82c-eda3-4b55-b64b-2b7715c38229" />
+
